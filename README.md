@@ -10,3 +10,17 @@
 
 ____________________________________
 
+
+JavaScript Online Compiler
+Python Certification ❯
+main.js
+
+ Run 
+console.log(isJogando)
+
+
+Output
+ Clear 
+
+
+
